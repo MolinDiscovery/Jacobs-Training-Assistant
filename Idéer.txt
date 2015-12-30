@@ -1,0 +1,17 @@
+Jacobs Training Assistant
+
+Counter
+Push-ups: 10	Pull-Ups: 10	Sit-Ups: 10	Squats: 10
+
+Functionality
+function - trainingDay() // Add 10 of each of the above every day.
+function - skipDay() // skip last day 
+function - removeDay(date) // check if it is already removed
+function - addDay(date) // check if the day already exists
+function - removeWorkout(int workout, date) // workout(1) is push-ups workout (2) is pull-ups…
+
+Upon start-up the app should return the total amount of workouts that has been completed.
+
+Possibility to enter a date DD/MM/YYYY and get something like
+The 02/04/2016 you have done
+Push-ups: 555313	Pull-Ups: 555313	Sit-Ups: 555313		Squats: 555313
