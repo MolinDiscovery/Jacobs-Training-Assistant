@@ -8,7 +8,7 @@ One might be surprised how much, so little exercise this little effort everyday 
 
 If you do the math you'll realise tht after a month you would have done.
 
-10 * 30 = 300 
+10 * 30 = 300 \n
 10 * 30 = 300 
 10 * 30 = 300 
 10 * 30 = 300 
