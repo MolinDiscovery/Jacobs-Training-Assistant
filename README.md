@@ -9,9 +9,9 @@ One might be surprised how much, so little exercise this little effort everyday 
 If you do the math you'll realise tht after a month you would have done.
 
 10 * 30 = 300 <br>
-10 * 30 = 300 
-10 * 30 = 300 
-10 * 30 = 300 
+10 * 30 = 300 <br>
+10 * 30 = 300 <br>
+10 * 30 = 300 <br>
 Total = 1200 reps.
 
 Through a whole year that is approx: 1200*12 = 14.400 reps!
